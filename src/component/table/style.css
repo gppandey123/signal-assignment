@@ -1,0 +1,17 @@
+.div{
+    display: flex;
+    justify-content: center;
+}
+
+.table{
+    width: 60% !important;
+}
+
+td, th{
+    text-align: center !important;
+}
+
+#button:hover{
+     background-color: antiquewhite;
+     cursor: pointer;
+}
